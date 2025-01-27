@@ -1,1 +1,2 @@
 # human_pose_estimation_project
+This project uses human pose estimation using a contour method to recognize key points (joints) in the human body from images. It leverages deep learning and computer vision techniques to output skeletal structures that connect these key points. Applications include sports analytics for performance analysis, healthcare to monitor rehabilitation, augmented reality for interactive experiences and enhanced safety monitoring systems to deal with challenges such as grinding. chew and different conditions to ensure accuracy.
